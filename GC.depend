@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1717523036 source:c:\users\panch\onedrive\escritorio\gran cerdo\gc\main.cpp
+	<iostream>
+	<locale>
+	"funciones.h"
+
+1717517026 c:\users\panch\onedrive\escritorio\gran cerdo\gc\funciones.h
+
